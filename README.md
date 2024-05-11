@@ -1,5 +1,5 @@
 # Estad-stica
-| Campo | Descripcion del camp |
+| Campo | Descripcion del campo |
 |----------|----------|
 | PROVINCIA   | Nombre de la provincia (variable cualitativa nominal)  |   
 | DEPARTAMENTO.x   | Nombre del departamento (variable cualitativa nominal)  |    
