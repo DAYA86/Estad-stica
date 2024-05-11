@@ -1,6 +1,6 @@
 # Estad-stica
 | Campo | Descripcion del camp |
-|----------|----------|----------|
+|----------|----------|
 | PROVINCIA   | Nombre de la provincia (variable cualitativa nominal)  |   
 | DEPARTAMENTO.x   | Nombre del departamento (variable cualitativa nominal)  |    
 |CANON  |Cantidad de dinero transferido por cuestiones del canon a las municipalidades provinciales (variable cuantitativa continua) |  
