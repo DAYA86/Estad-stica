@@ -1,4 +1,4 @@
-# Estad-stica
+# Estadistica
 | Campo | Descripcion del campo | Valores|
 |----------|----------|----------|
 | PROVINCIA   | Nombre de la provincia (variable cualitativa nominal)  |   
